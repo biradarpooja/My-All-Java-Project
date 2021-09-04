@@ -1,2 +1,2 @@
-# Calculator
-Calculator java project
+# Java Project
+All java project
